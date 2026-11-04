@@ -1,5 +1,5 @@
 # MS-CUBED
-YOO! GUYS YOU CAN VISIT MY SITE IF YOU ARE LOOKING FOR LEARNING NEW THINGS ABOUT SCIENCE. This site cover 4 main branches of science like Biology, Math, Physics, Chemistry.
+YOO! Guy's Yyou can visit my Site i you are looking for learning new things about Science. This site cover 4 main branches of science like Biology, Math, Physics, Chemistry.
 
 
 **THROUGH THIS LINK YOU CAN VISIT [My site](https://msdatahub58.github.io/MS-CUBED/).**
