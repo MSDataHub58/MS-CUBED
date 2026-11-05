@@ -49,7 +49,7 @@ MS-CUBED is web-based science learning hub created for students, who want to lea
   
 ## License
 
-This project is licensed under the MIT License - see the **LICENSE.md** file for details
+This project is licensed under the MIT License - see the **[LICENSE.md](https://github.com/MSDataHub58/MS-CUBED/blob/08afd4d585fad3aa64e4285aefa901740dec782e/LICENSES.md)** file for details
 
 
 **Code by Shabi** for Hack Club
