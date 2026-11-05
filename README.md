@@ -1,12 +1,17 @@
 # MS-CUBED
-YOO! Guy's Yyou can visit my Site i you are looking for learning new things about Science. This site cover 4 main branches of science like Biology, Math, Physics, Chemistry.
+YOO! Guy's you can visit my Site if you are looking for learning new things about science. This site cover 4 main branches of science like Biology, Math, Physics, Chemistry.
+## Screen shots
 
+## Description
+
+MS-CUBED is web-based science learning hub created for students, who want to learn through animation or by reading. It features direct Wikipedia links, and 3d animation/video resources for Bio, Math, Physics, Chem. The web is built with the help of HTML and CSS styling for making the web beautifull.    
 
 **THROUGH THIS LINK YOU CAN VISIT [My site](https://msdatahub58.github.io/MS-CUBED/).**
 
 
-**Overview** This web is created for students who wants to learn more about science and their branches.
-
+**Required things to run web :** 
+* Web browser like Google Chrome, Microsoft Edge, Fire Fox, etc.
+* An active internet connection to load external links, icons, and                Youtube/Wikipedia resources.
 
 ## Subject covered:
 
@@ -17,6 +22,12 @@ YOO! Guy's Yyou can visit my Site i you are looking for learning new things abou
 **MATH:** Logic, Fields.
 
 **CHEM:** All about Chem, branches, laws, etc.
+
+## Installing
+
+* Clone the repo or download the ZIP folder directly from Github:
+  ```bash
+  git clone [https://github.com/msdatahub58/PROGRAMMING.git](https://github.com/msdatahub58/PROGRAMMING.git)
 
 
 
