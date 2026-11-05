@@ -36,5 +36,18 @@ MS-CUBED is web-based science learning hub created for students, who want to lea
   git clone [https://github.com/msdatahub58/PROGRAMMING.git](https://github.com/msdatahub58/PROGRAMMING.git)
 
 
+## Executing program
+* How to run the program
+    1. Open project folder on your device.
+    2. Double click on the **index.html** file to launch it in your browser.
+    3. Or you can host it live using GitHub page.
+
+
+## Help
+
+* If the icons or online links fail to respond please check your internet        connection.
+  
+
+
 
 **Code by Shabi** for Hack Club
